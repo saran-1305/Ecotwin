@@ -1,0 +1,7 @@
+{
+  "name": "EcoImpact AI",
+  "description": "An AI-powered sustainability intelligence platform to analyze products, track carbon footprint, and map consumption to SDGs.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
