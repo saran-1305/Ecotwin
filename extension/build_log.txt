@@ -1,0 +1,11 @@
+
+> ecotwin-extension@1.0.0 build
+> plasmo build
+
+🟣 Plasmo v0.90.5
+🔴 The Browser Extension Framework
+🔵 INFO   | Prepare to bundle the extension...
+🔵 INFO   | Building for target: chrome-mv3
+🟠 WARN   | No icon found in assets directory
+🔵 INFO   | Loaded environment variables from: []
+🔴 ERROR  | Failed to resolve './gen-assets/icon32.plasmo.png' from './.plasmo/chrome-mv3.plasmo.manifest.json'
