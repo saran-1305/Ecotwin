@@ -1,0 +1,66 @@
+﻿=== RUNNING HYBRID SCORING VALIDATION SUITE ===
+
+Scenario: 1) Organic cotton t-shirt + recyclable packaging + brand sustainability claims
+Climatiq API Error 400: {"error":"bad_request","error_code":"no_emission_factors_found","message":"No emission factors could be found using the current query."}
+  -> Score: 96 (Excellent)
+  -> Target Range: 75 - 100
+  -> Confidence: 85%
+  -> NLP Intent: 79/100
+  -> Dynamic Carbon Output: 4.5 kg_co2e (source: Hybrid Estimate)
+  -> Reasoning: Base score normalized across {int(total_active_weight)}% verified data. Boosted +18 points via 7 positive indicators and certs. 
+  -> Pos Signals: ['climate pledge', 'gots', 'recyclable packaging', 'fairtrade', 'sustainability report']
+  -> Neg Signals: []
+  -> Breakdown: {'material': 80, 'packaging': 70, 'durability': None, 'brand_record': 85, 'lifecycle': 65}
+  [PASS] Score falls within expected calibration range.
+
+Scenario: 2) Stainless steel reusable bottle (little brand info)
+Climatiq API Error 400: {"error":"bad_request","error_code":"no_emission_factors_found","message":"No emission factors could be found using the current query."}
+  -> Score: 85 (Excellent)
+  -> Target Range: 65 - 85
+  -> Confidence: 65%
+  -> NLP Intent: 31/100
+  -> Dynamic Carbon Output: 1.2 kg_co2e (source: Hybrid Estimate)
+  -> Reasoning: Base score normalized across {int(total_active_weight)}% verified data. Boosted +8 points via 3 positive indicators and certs. 
+  -> Pos Signals: ['reusable', 'stainless steel', 'durable']
+  -> Neg Signals: []
+  -> Breakdown: {'material': 70, 'packaging': None, 'durability': 90, 'brand_record': None, 'lifecycle': None}
+  [PASS] Score falls within expected calibration range.
+
+Scenario: 3) Mixed plastic disposable product + no transparency
+Climatiq API Error 400: {"error":"bad_request","error_code":"no_emission_factors_found","message":"No emission factors could be found using the current query."}
+  -> Score: 15 (Poor)
+  -> Target Range: 20 - 45
+  -> Confidence: 60%
+  -> NLP Intent: 39/100
+  -> Dynamic Carbon Output: 8.5 kg_co2e (source: Hybrid Estimate)
+  -> Reasoning: Base score normalized across {int(total_active_weight)}% verified data. Penalized -20 points due to severe negative indicators (virgin plastic, pvc, single-use). 
+  -> Pos Signals: []
+  -> Neg Signals: ['virgin plastic', 'pvc', 'single-use']
+  -> Breakdown: {'material': 25, 'packaging': 25, 'durability': 20, 'brand_record': None, 'lifecycle': None}
+  [FAIL] Score 15 is OUTSIDE expected range (20, 45)
+
+Scenario: 4) Sparse unknown product data
+Climatiq API Error 400: {"error":"bad_request","error_code":"no_emission_factors_found","message":"No emission factors could be found using the current query."}
+  -> Score: 50 (Fair)
+  -> Target Range: 45 - 60
+  -> Confidence: 30%
+  -> NLP Intent: 31/100
+  -> Dynamic Carbon Output: None kg_co2e (source: Insufficient Evidence)
+  -> Reasoning: Base score normalized across {int(total_active_weight)}% verified data. No major calibration nudges applied beyond base materials.
+  -> Pos Signals: []
+  -> Neg Signals: []
+  -> Breakdown: {'material': None, 'packaging': None, 'durability': None, 'brand_record': None, 'lifecycle': None}
+  [PASS] Score falls within expected calibration range.
+
+Scenario: 5) Recycled/biodegradable garbage bags + recyclable packaging claims
+Climatiq API Error 400: {"error":"bad_request","error_code":"no_emission_factors_found","message":"No emission factors could be found using the current query."}
+  -> Score: 84 (Excellent)
+  -> Target Range: 65 - 95
+  -> Confidence: 85%
+  -> NLP Intent: 31/100
+  -> Dynamic Carbon Output: 8.5 kg_co2e (source: Hybrid Estimate)
+  -> Reasoning: Base score normalized across {int(total_active_weight)}% verified data. Boosted +8 points via 4 positive indicators and certs. 
+  -> Pos Signals: ['biodegradable', 'recyclable packaging', 'recycled content', 'paper packaging']
+  -> Neg Signals: []
+  -> Breakdown: {'material': 80, 'packaging': 70, 'durability': None, 'brand_record': None, 'lifecycle': None}
+  [PASS] Score falls within expected calibration range.

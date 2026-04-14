@@ -1,0 +1,4 @@
+﻿components/ErrorBoundary.tsx(50,21): error TS2339: Property 'props' does not exist on type 'ErrorBoundary'.
+services/geminiService.ts(15,35): error TS2339: Property 'priority' does not exist on type 'UserPreferences'.
+services/geminiService.ts(16,45): error TS2339: Property 'priority' does not exist on type 'UserPreferences'.
+services/geminiService.ts(17,35): error TS2339: Property 'priority' does not exist on type 'UserPreferences'.

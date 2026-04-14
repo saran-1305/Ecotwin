@@ -1,0 +1,58 @@
+{
+  "analysis_id": "db75294f-ab9e-4757-9b58-96b7e9179740",
+  "canonical_url": "https://amazon.in/test",
+  "product_title": "JUTEKA Printed Grocery, Shopping, Tote, Multipurpose Jute Bag",
+  "brand": null,
+  "product_image": null,
+  "eco_score": 74,
+  "confidence": 60.0,
+  "score_band": "Good",
+  "breakdown": {
+    "material": 65,
+    "packaging": null,
+    "brand_record": null,
+    "lifecycle": null,
+    "durability": 80
+  },
+  "carbon_estimate": {
+    "kg_co2e": null,
+    "source": "Insufficient Evidence"
+  },
+  "recyclability": {
+    "percent": null,
+    "label": "Unknown"
+  },
+  "labor_risk": {
+    "grade": "Unknown",
+    "score": null
+  },
+  "sdg_mapping": [],
+  "key_findings": [
+    "Detected materials: jute",
+    "NLP Sentiment Confidence: 31/100"
+  ],
+  "signals": [
+    "jute",
+    "reusable"
+  ],
+  "positive_signals_detected": [
+    "jute",
+    "reusable"
+  ],
+  "negative_signals_detected": [],
+  "scoring_reasoning": "Base score normalized across {int(total_active_weight)}% verified data. Boosted +4 points via 2 positive indicators and certs. ",
+  "data_quality": "medium",
+  "product_category": "grocery",
+  "epeat_eligible": false,
+  "live_signals": [
+    "jute",
+    "reusable"
+  ],
+  "signals_status": "ok",
+  "status": "success",
+  "error_message": null,
+  "partial_analysis": false,
+  "unavailable_modules": [],
+  "created_at": "2026-02-21T15:01:57.763097",
+  "score_version": "v3_hybrid"
+}

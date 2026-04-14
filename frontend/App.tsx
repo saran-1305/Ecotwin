@@ -8,6 +8,8 @@ import Dashboard from './pages/Dashboard';
 import Analyzer from './pages/Analyzer';
 import Profile from './pages/Profile';
 import History from './pages/History';
+import Login from './pages/Login';
+import Register from './pages/Register';
 
 const App: React.FC = () => {
   return (
@@ -20,6 +22,8 @@ const App: React.FC = () => {
             <Route path="/analyzer" element={<Analyzer />} />
             <Route path="/history" element={<History />} />
             <Route path="/profile" element={<Profile />} />
+            <Route path="/login" element={<Login />} />
+            <Route path="/register" element={<Register />} />
             <Route path="*" element={<Navigate to="/" replace />} />
           </Routes>
         </Layout>

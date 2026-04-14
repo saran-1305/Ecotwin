@@ -7,24 +7,22 @@
 
 body {
   font-family: 'Outfit', sans-serif;
-  color: #064e3b;
-  background-color: #ffffff;
+  color: #F8F9FA;
+  background-color: #054231;
 }
 
 .glass {
-  background: rgba(255, 255, 255, 0.9);
+  background: rgba(11, 90, 71, 0.7);
   backdrop-filter: blur(12px);
-  border: 1px solid rgba(16, 185, 129, 0.1);
+  border: 1px solid rgba(16, 185, 129, 0.2);
 }
 
 .glow-emerald {
-  box-shadow: 0 10px 15px -3px rgba(16, 185, 129, 0.1), 0 4px 6px -2px rgba(16, 185, 129, 0.05);
+  box-shadow: 0 10px 15px -3px rgba(0, 0, 0, 0.2), 0 4px 6px -2px rgba(6, 78, 59, 0.2);
 }
 
 .bg-green-white-theme {
-  background: radial-gradient(circle at 0% 0%, #f0fdf4 0%, transparent 50%),
-    radial-gradient(circle at 100% 100%, #f0fdf4 0%, transparent 50%),
-    #ffffff;
+  background: #054231;
 }
 
 ::-webkit-scrollbar {
@@ -32,16 +30,16 @@ body {
 }
 
 ::-webkit-scrollbar-track {
-  background: #ffffff;
+  background: #054231;
 }
 
 ::-webkit-scrollbar-thumb {
-  background: #d1fae5;
+  background: #0B5A47;
   border-radius: 10px;
 }
 
 ::-webkit-scrollbar-thumb:hover {
-  background: #a7f3d0;
+  background: #34d399;
 }
 
 

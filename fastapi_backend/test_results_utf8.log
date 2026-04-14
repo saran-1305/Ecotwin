@@ -1,0 +1,66 @@
+﻿=== RUNNING HYBRID SCORING VALIDATION SUITE ===
+
+Scenario: 1) Organic cotton t-shirt + recyclable packaging + brand sustainability claims
+Climatiq API Error 400: {"error":"bad_request","error_code":"no_emission_factors_found","message":"No emission factors could be found using the current query."}
+  -> Score: 98 (Excellent)
+  -> Target Range: 75 - 100
+  -> Confidence: 85%
+  -> NLP Intent: 79/100
+  -> Dynamic Carbon Output: 4.5 kg_co2e (source: Hybrid Estimate)
+  -> Reasoning: Base score normalized across {int(total_active_weight)}% verified data. Boosted +30 points via 7 positive indicators and certs. 
+  -> Pos Signals: ['gots', 'paper packaging', 'fairtrade', 'climate pledge', 'sustainability report']
+  -> Neg Signals: []
+  -> Breakdown: {'material': 85, 'packaging': 80, 'durability': None, 'brand_record': 95, 'lifecycle': 80}
+  [PASS] Score falls within expected calibration range.
+
+Scenario: 2) Stainless steel reusable bottle (little brand info)
+Climatiq API Error 400: {"error":"bad_request","error_code":"no_emission_factors_found","message":"No emission factors could be found using the current query."}
+  -> Score: 98 (Excellent)
+  -> Target Range: 65 - 85
+  -> Confidence: 65%
+  -> NLP Intent: 31/100
+  -> Dynamic Carbon Output: 1.2 kg_co2e (source: Hybrid Estimate)
+  -> Reasoning: Base score normalized across {int(total_active_weight)}% verified data. Boosted +15 points via 3 positive indicators and certs. 
+  -> Pos Signals: ['stainless steel', 'durable', 'reusable']
+  -> Neg Signals: []
+  -> Breakdown: {'material': 80, 'packaging': None, 'durability': 95, 'brand_record': None, 'lifecycle': None}
+  [FAIL] Score 98 is OUTSIDE expected range (65, 85)
+
+Scenario: 3) Mixed plastic disposable product + no transparency
+Climatiq API Error 400: {"error":"bad_request","error_code":"no_emission_factors_found","message":"No emission factors could be found using the current query."}
+  -> Score: 10 (Poor)
+  -> Target Range: 20 - 45
+  -> Confidence: 60%
+  -> NLP Intent: 39/100
+  -> Dynamic Carbon Output: 8.5 kg_co2e (source: Hybrid Estimate)
+  -> Reasoning: Base score normalized across {int(total_active_weight)}% verified data. Penalized -35 points due to severe negative indicators (single-use, virgin plastic, pvc). 
+  -> Pos Signals: []
+  -> Neg Signals: ['single-use', 'virgin plastic', 'pvc']
+  -> Breakdown: {'material': 15, 'packaging': 10, 'durability': 10, 'brand_record': None, 'lifecycle': None}
+  [FAIL] Score 10 is OUTSIDE expected range (20, 45)
+
+Scenario: 4) Sparse unknown product data
+Climatiq API Error 400: {"error":"bad_request","error_code":"no_emission_factors_found","message":"No emission factors could be found using the current query."}
+  -> Score: 50 (Fair)
+  -> Target Range: 45 - 60
+  -> Confidence: 30%
+  -> NLP Intent: 31/100
+  -> Dynamic Carbon Output: None kg_co2e (source: Insufficient Evidence)
+  -> Reasoning: Base score normalized across {int(total_active_weight)}% verified data. No major calibration nudges applied beyond base materials.
+  -> Pos Signals: []
+  -> Neg Signals: []
+  -> Breakdown: {'material': None, 'packaging': None, 'durability': None, 'brand_record': None, 'lifecycle': None}
+  [PASS] Score falls within expected calibration range.
+
+Scenario: 5) Recycled/biodegradable garbage bags + recyclable packaging claims
+Climatiq API Error 400: {"error":"bad_request","error_code":"no_emission_factors_found","message":"No emission factors could be found using the current query."}
+  -> Score: 98 (Excellent)
+  -> Target Range: 65 - 95
+  -> Confidence: 85%
+  -> NLP Intent: 31/100
+  -> Dynamic Carbon Output: 8.5 kg_co2e (source: Hybrid Estimate)
+  -> Reasoning: Base score normalized across {int(total_active_weight)}% verified data. Boosted +15 points via 4 positive indicators and certs. 
+  -> Pos Signals: ['biodegradable', 'paper packaging', 'recyclable packaging', 'recycled content']
+  -> Neg Signals: []
+  -> Breakdown: {'material': 95, 'packaging': 80, 'durability': None, 'brand_record': None, 'lifecycle': None}
+  [FAIL] Score 98 is OUTSIDE expected range (65, 95)

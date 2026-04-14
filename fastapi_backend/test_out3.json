@@ -1,0 +1,14 @@
+{
+  "detail": [
+    {
+      "type": "missing",
+      "loc": [
+        "body",
+        "extracted",
+        "title"
+      ],
+      "msg": "Field required",
+      "input": {}
+    }
+  ]
+}

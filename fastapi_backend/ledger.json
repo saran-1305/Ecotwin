@@ -1,0 +1,1253 @@
+[
+  {
+    "user_id": "ext-user-1771618582175",
+    "source": "extension_quick_scan",
+    "platform": "unknown",
+    "event_type": "product_scan",
+    "canonical_url": "https://accounts.google.com/v3/signin/accountchooser?access_type=offline&client_id=1071006060591-tmhssin2h21lcre235vtolojh4g403ep.apps.googleusercontent.com&prompt=consent&redirect_uri=http%3A%2F%2Flocalhost%3A54318%2Foauth-callback&response_type=code&scope=https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fcloud-platform+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo.email+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo.profile+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fcclog+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fexperimentsandconfigs&state=f02ba525-e345-470f-8289-c1466122fea1&dsh=S-1593631405%3A1771666211427603&o2v=2&service=lso&flowName=GeneralOAuthFlow&opparams=%253F&continue=https%3A%2F%2Faccounts.google.com%2Fsignin%2Foauth%2Fconsent%3Fauthuser%3Dunknown%26part%3DAJi8hAOlteLnfMgCATpMDPnp6ieAL45Ogw7QF0B13B9c2rhtRhXmpY-LWGytMzrW8GtDYsxuo3BPT7Ny9KrMA9J9n6Jyo3iH9xrhPp0SV2mfqTi6DtJw9lGZvHtjR8T8Zb0WskxXxhR_cp3RJSnJl_C2An6A-p3TSlHhk79F7J_pcqhKy5r9PHHOwZ8dZulESjdBxXalH4gGLJTzj9Kuu7Zu658BTj5FcwDRGx6HWfZJzEb8Pj73frPpZoZlIOoEjJRBzZgO6LOxSVUsYkcOkDnmh28fm4Ofb80E9HSRhPHM0KrT7vdGjZyHQzfFOAUlSn5sMytNL41LB9pcTRyUAU8BfTT6KiCRTTfwECIlsdL-maa1obWPoJr0mIX_XwL37edkqiD4QgDhs6y6XiCLbENdEzzc3rMSiRmdw-HXJYN0Y00Mq9s5BUgW-7IHYnRhth6GPvepGTscnzpXISrPTkGHqlOapHlah2SrcfzEdrOm_5DkocZiO7T_xS-yJZFtMkyBdrV82DMw%26flowName%3DGeneralOAuthFlow%26as%3DS-1593631405%253A1771666211427603%26client_id%3D1071006060591-tmhssin2h21lcre235vtolojh4g403ep.apps.googleusercontent.com%26requestPath%3D%252Fsignin%252Foauth%252Fconsent%23&app_domain=http%3A%2F%2Flocalhost%3A54318",
+    "product_title": "Choose an account",
+    "brand": null,
+    "product_image": null,
+    "analysis_id": "512886f8-0227-4b95-ac96-18c28165054f",
+    "eco_score": 55,
+    "confidence": 30.0,
+    "score_band": "Fair",
+    "breakdown": {
+      "material": null,
+      "packaging": null,
+      "brand_record": null,
+      "lifecycle": null,
+      "durability": null
+    },
+    "carbon_estimate": {
+      "kg_co2e": null,
+      "source": "Insufficient Evidence"
+    },
+    "sdg_mapping": [],
+    "key_findings": [
+      "Detected materials: Unknown",
+      "NLP Sentiment Confidence: 79/100"
+    ],
+    "positive_signals_detected": [],
+    "negative_signals_detected": [],
+    "scoring_reasoning": null,
+    "data_quality": null,
+    "created_at_client": "2026-02-21T09:37:36.218Z",
+    "ledger_id": "79fe079e-8038-4045-85f8-25a195c1f291",
+    "scanType": "quick",
+    "status": "success",
+    "created_at": "2026-02-21T15:07:36.240433"
+  },
+  {
+    "user_id": "ext-user-1771618582175",
+    "source": "extension_quick_scan",
+    "platform": "amazon",
+    "event_type": "product_scan",
+    "canonical_url": "https://www.amazon.in/dp/B0BR5Q4GNS/ref=sspa_dk_detail_1?pd_rd_i=B0BR5Q4GNS&pd_rd_w=W4oSS&content-id=amzn1.sym.67d3dec9-3503-44a1-a945-e969d04cca69&pf_rd_p=67d3dec9-3503-44a1-a945-e969d04cca69&pf_rd_r=9B4RC33AXVY30HNN6E69&pd_rd_wg=8EBd8&pd_rd_r=cf80e427-d212-4b9a-91bd-4000dfa78032&aref=3djBdfhR44&sp_csd=d2lkZ2V0TmFtZT1zcF9kZXRhaWxfdGhlbWF0aWM&th=1",
+    "product_title": "JUTEKA Printed Grocery, Shopping, Tote, Multipurpose Jute Bag",
+    "brand": "Visit the JUTEKA Store",
+    "product_image": "https://m.media-amazon.com/images/I/619Smo3Q8tL._SX522_.jpg",
+    "analysis_id": "0e7b69ca-f4ab-4085-b0c6-2fd31796e128",
+    "eco_score": 72,
+    "confidence": 65.0,
+    "score_band": "Good",
+    "breakdown": {
+      "material": 65,
+      "packaging": null,
+      "brand_record": 50,
+      "lifecycle": 50,
+      "durability": 80
+    },
+    "carbon_estimate": {
+      "kg_co2e": null,
+      "source": "Insufficient Evidence"
+    },
+    "sdg_mapping": [],
+    "key_findings": [
+      "Detected materials: jute",
+      "NLP Sentiment Confidence: 31/100"
+    ],
+    "positive_signals_detected": [],
+    "negative_signals_detected": [],
+    "scoring_reasoning": null,
+    "data_quality": null,
+    "created_at_client": "2026-02-21T09:37:44.662Z",
+    "ledger_id": "8c861545-394f-4663-a4b0-6fd9c0a1a237",
+    "scanType": "quick",
+    "status": "success",
+    "created_at": "2026-02-21T15:07:44.723454"
+  },
+  {
+    "user_id": "ext-user-1771618582175",
+    "source": "extension_quick_scan",
+    "platform": "amazon",
+    "event_type": "product_scan",
+    "canonical_url": "https://www.amazon.in/Happy-Cove-Friendly-Dinner-Plates/dp/B0DJMB1JYN/ref=sr_1_7?crid=4EV6TDGA2GP8&dib=eyJ2IjoiMSJ9.-qvn-bHiuOREo8dJF_7wSJv82r-p9ggzlnjoqr4S9-T08IACPJGOhX0NJ8Hi14z4II4y5Iu9SU81ShWdkAj8SN1u9pl1I8h5PRovav6eLSXB7L1ejE9s7ZdBAuHtdVLx25DwdrEsesDkvoDVq5aSea1uHv-q5I4DzdS_4rRkTZjYda8JSWxDW-HHEVgVTowJur5EAZxWcvEcbJKD5qfcnT1gPv5IFJKHiC2Jj66wQuDzaXbE6KESYonDGLnnjIMm9gKiywsXdW7nSzXzgAZx2HIXdp2wf7zfPh7bnTSI8Ig.Ku388r0-Oq75GsY0EodbvBqny7SA43GekwuJcnlgyMg&dib_tag=se&keywords=ecofriendly&qid=1771662079&s=kitchen&sprefix=ecofriendly%2Ckitchen%2C372&sr=1-7&th=1",
+    "product_title": "Solid Husk Eco Friendly 10 inch Dinner Plates|Rice Husk and Bamboo Fibre|Set of 3 with 3 Bowls (200ml) and 3 Sauce Bowls - Durable, Microwave Safe, Multicolour",
+    "brand": "Visit the Happy Cove Store",
+    "product_image": "https://m.media-amazon.com/images/I/81pZYv8T-gL._SL1500_.jpg",
+    "analysis_id": "7affe11f-05f1-4055-bf26-2d93fa1480b3",
+    "eco_score": 76,
+    "confidence": 85.0,
+    "score_band": "Excellent",
+    "breakdown": {
+      "material": 70,
+      "packaging": null,
+      "brand_record": 50,
+      "lifecycle": 50,
+      "durability": 90
+    },
+    "carbon_estimate": {
+      "kg_co2e": 8.5,
+      "source": "Hybrid Estimate"
+    },
+    "sdg_mapping": [],
+    "key_findings": [
+      "Detected materials: wheat straw, bamboo",
+      "NLP Sentiment Confidence: 35/100"
+    ],
+    "positive_signals_detected": [],
+    "negative_signals_detected": [],
+    "scoring_reasoning": null,
+    "data_quality": null,
+    "created_at_client": "2026-02-21T10:04:45.551Z",
+    "ledger_id": "433e880d-ca41-4b0f-aafc-317082fe39fd",
+    "scanType": "quick",
+    "status": "success",
+    "created_at": "2026-02-21T15:34:45.557028"
+  },
+  {
+    "user_id": "web-user-1771618709918",
+    "source": "deep_analysis",
+    "platform": "amazon",
+    "event_type": "product_scan",
+    "canonical_url": "https://www.amazon.in/Happy-Cove-Friendly-Dinner-Plates/dp/B0DJMB1JYN/ref=sr_1_7",
+    "product_title": "Solid Husk Eco Friendly 10 inch Dinner Plates|Rice Husk and Bamboo Fibre|Set of 3 with 3 Bowls (200ml) and 3 Sauce Bowls - Durable, Microwave Safe, Multicolour",
+    "brand": "Visit the Happy Cove Store",
+    "product_image": "https://m.media-amazon.com/images/I/81pZYv8T-gL._SL1500_.jpg",
+    "analysis_id": "7affe11f-05f1-4055-bf26-2d93fa1480b3",
+    "eco_score": 76,
+    "confidence": 85.0,
+    "score_band": "Excellent",
+    "breakdown": {
+      "material": 70,
+      "packaging": null,
+      "brand_record": 50,
+      "lifecycle": 50,
+      "durability": 90
+    },
+    "carbon_estimate": {
+      "kg_co2e": 8.5,
+      "source": "Hybrid Estimate"
+    },
+    "sdg_mapping": [],
+    "key_findings": [
+      "Detected materials: wheat straw, bamboo",
+      "NLP Sentiment Confidence: 35/100"
+    ],
+    "positive_signals_detected": [],
+    "negative_signals_detected": [],
+    "scoring_reasoning": null,
+    "data_quality": null,
+    "created_at_client": "2026-02-21T10:05:02.498Z",
+    "ledger_id": "14a95edb-2528-496a-9369-7c8755b6e009",
+    "scanType": "full",
+    "status": "success",
+    "created_at": "2026-02-21T15:35:02.554495"
+  },
+  {
+    "user_id": "ext-user-1771618582175",
+    "source": "extension_quick_scan",
+    "platform": "amazon",
+    "event_type": "product_scan",
+    "canonical_url": "http://localhost:3000/#/analyzer?url=https%3A%2F%2Fwww.amazon.in%2FHappy-Cove-Friendly-Dinner-Plates%2Fdp%2FB0DJMB1JYN%2Fref%3Dsr_1_7%3Fcrid%3D4EV6TDGA2GP8%26dib%3DeyJ2IjoiMSJ9.-qvn-bHiuOREo8dJF_7wSJv82r-p9ggzlnjoqr4S9-T08IACPJGOhX0NJ8Hi14z4II4y5Iu9SU81ShWdkAj8SN1u9pl1I8h5PRovav6eLSXB7L1ejE9s7ZdBAuHtdVLx25DwdrEsesDkvoDVq5aSea1uHv-q5I4DzdS_4rRkTZjYda8JSWxDW-HHEVgVTowJur5EAZxWcvEcbJKD5qfcnT1gPv5IFJKHiC2Jj66wQuDzaXbE6KESYonDGLnnjIMm9gKiywsXdW7nSzXzgAZx2HIXdp2wf7zfPh7bnTSI8Ig.Ku388r0-Oq75GsY0EodbvBqny7SA43GekwuJcnlgyMg%26dib_tag%3Dse%26keywords%3Decofriendly%26qid%3D1771662079%26s%3Dkitchen%26sprefix%3Decofriendly%252Ckitchen%252C372%26sr%3D1-7%26th%3D1",
+    "product_title": "Product Scan",
+    "brand": null,
+    "product_image": null,
+    "analysis_id": "81636ee5-c6be-4a58-9a7c-8f8e117c5d06",
+    "eco_score": 50,
+    "confidence": 30.0,
+    "score_band": "Fair",
+    "breakdown": {
+      "material": null,
+      "packaging": null,
+      "brand_record": null,
+      "lifecycle": null,
+      "durability": null
+    },
+    "carbon_estimate": {
+      "kg_co2e": null,
+      "source": "Insufficient Evidence"
+    },
+    "sdg_mapping": [],
+    "key_findings": [
+      "Detected materials: Unknown",
+      "NLP Sentiment Confidence: 31/100"
+    ],
+    "positive_signals_detected": [],
+    "negative_signals_detected": [],
+    "scoring_reasoning": null,
+    "data_quality": null,
+    "created_at_client": "2026-02-21T09:40:12.338Z",
+    "ledger_id": "1a693ff0-7bc7-4575-93fe-daef275793b1",
+    "scanType": "quick",
+    "status": "success",
+    "created_at": "2026-02-21T15:10:12.342294"
+  },
+  {
+    "user_id": "ext-user-1771618582175",
+    "source": "extension_quick_scan",
+    "platform": "amazon",
+    "event_type": "product_scan",
+    "canonical_url": "https://www.amazon.in/Display-Always-Dynamic-5000mAh-Battery/dp/B0F8R2LSBY/ref=sr_1_1_sspa?dib=eyJ2IjoiMSJ9.Xcg8qrkT7Ae7M5yowaQZHFXodWbUggMnKx46Eb9GC2BWoAICEouyPMZf8hJvVObR4cW6oXBvITwuFiPQ3ssOrNL5Il0KrjnMoqSTSFfcNvGpAFiYwOV4QFb3NRSUiIPiXklgbIoMpQpDpq48a7WDfgK8B90cDEdlzsMMkFmoI67EE3j-UH65KpM1lc123N6xtfx0uHgXBYdIPTBn5NWdISw4aG5K78y88UfRuwlSD60.i7ZjMNPk9dXo0FVAewy87Xt0-to4JEeoqB1Us6_kNfI&dib_tag=se&keywords=phone%2Bunder%2B20k&qid=1771661764&sr=8-1-spons&aref=3cSDBMlFOk&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&th=1",
+    "product_title": "itel Zeno 20 Max | AI Vana 2.0 | 4GB RAM 128GB ROM | 6.6\" HD+ 90Hz Display | 13MP AI Camera | IP54 Rated | Always-On Display | Dynamic Bar | DTS Sound | 5000mAh Battery |3-Year Fluency|Starlit Back",
+    "brand": "Visit the Itel Store",
+    "product_image": "https://m.media-amazon.com/images/I/71m90p7NqTL._SL1500_.jpg",
+    "analysis_id": "aa89e0aa-0b95-4e57-8b89-1da4b5e17ec2",
+    "eco_score": 54,
+    "confidence": 30.0,
+    "score_band": "Fair",
+    "breakdown": {
+      "material": null,
+      "packaging": null,
+      "brand_record": 50,
+      "lifecycle": 50,
+      "durability": null
+    },
+    "carbon_estimate": {
+      "kg_co2e": null,
+      "source": "Insufficient Evidence"
+    },
+    "sdg_mapping": [],
+    "key_findings": [
+      "Detected materials: Unknown",
+      "NLP Sentiment Confidence: 31/100"
+    ],
+    "positive_signals_detected": [],
+    "negative_signals_detected": [],
+    "scoring_reasoning": null,
+    "data_quality": null,
+    "created_at_client": "2026-02-21T09:40:32.674Z",
+    "ledger_id": "bed3e324-87e7-4335-9c37-1a4d5aafb389",
+    "scanType": "quick",
+    "status": "success",
+    "created_at": "2026-02-21T15:10:32.678879"
+  },
+  {
+    "user_id": "web-user-1771618709918",
+    "source": "deep_analysis",
+    "platform": "amazon",
+    "event_type": "product_scan",
+    "canonical_url": "https://www.amazon.in/Display-Always-Dynamic-5000mAh-Battery/dp/B0F8R2LSBY/ref=sr_1_1_sspa",
+    "product_title": "itel Zeno 20 Max | AI Vana 2.0 | 4GB RAM 128GB ROM | 6.6\" HD+ 90Hz Display | 13MP AI Camera | IP54 Rated | Always-On Display | Dynamic Bar | DTS Sound | 5000mAh Battery |3-Year Fluency|Starlit Back",
+    "brand": "Visit the Itel Store",
+    "product_image": "https://m.media-amazon.com/images/I/71m90p7NqTL._SL1500_.jpg",
+    "analysis_id": "aa89e0aa-0b95-4e57-8b89-1da4b5e17ec2",
+    "eco_score": 54,
+    "confidence": 30.0,
+    "score_band": "Fair",
+    "breakdown": {
+      "material": null,
+      "packaging": null,
+      "brand_record": 50,
+      "lifecycle": 50,
+      "durability": null
+    },
+    "carbon_estimate": {
+      "kg_co2e": null,
+      "source": "Insufficient Evidence"
+    },
+    "sdg_mapping": [],
+    "key_findings": [
+      "Detected materials: Unknown",
+      "NLP Sentiment Confidence: 31/100"
+    ],
+    "positive_signals_detected": [],
+    "negative_signals_detected": [],
+    "scoring_reasoning": null,
+    "data_quality": null,
+    "created_at_client": "2026-02-21T09:40:49.852Z",
+    "ledger_id": "a0361206-a5cd-4d13-a2d3-a0fea089cb91",
+    "scanType": "full",
+    "status": "success",
+    "created_at": "2026-02-21T15:10:49.909296"
+  },
+  {
+    "user_id": "ext-user-1771618582175",
+    "source": "extension_quick_scan",
+    "platform": "amazon",
+    "event_type": "product_scan",
+    "canonical_url": "https://www.amazon.in/s/ref=mega_elec_s23_1_1_1_1?rh=i%3Aelectronics%2Cn%3A1389401031&ie=UTF8&bbn=976419031",
+    "product_title": "Category",
+    "brand": null,
+    "product_image": null,
+    "analysis_id": "1384a3fa-d280-4cea-9e74-bf07090a57ed",
+    "eco_score": 55,
+    "confidence": 30.0,
+    "score_band": "Fair",
+    "breakdown": {
+      "material": null,
+      "packaging": null,
+      "brand_record": null,
+      "lifecycle": null,
+      "durability": null
+    },
+    "carbon_estimate": {
+      "kg_co2e": null,
+      "source": "Insufficient Evidence"
+    },
+    "sdg_mapping": [],
+    "key_findings": [
+      "Detected materials: Unknown",
+      "NLP Sentiment Confidence: 76/100"
+    ],
+    "positive_signals_detected": [],
+    "negative_signals_detected": [],
+    "scoring_reasoning": null,
+    "data_quality": null,
+    "created_at_client": "2026-02-21T09:41:25.868Z",
+    "ledger_id": "e1ae3dd3-0c5a-4818-85a3-f9a9eee5aa7d",
+    "scanType": "quick",
+    "status": "success",
+    "created_at": "2026-02-21T15:11:25.873406"
+  },
+  {
+    "user_id": "ext-user-1771618582175",
+    "source": "extension_quick_scan",
+    "platform": "amazon",
+    "event_type": "product_scan",
+    "canonical_url": "https://www.amazon.in/dp/B0DVC6VC7P?_encoding=UTF8&ref_=cct_cg_Budget_3c1&pf_rd_p=b8ea423a-c720-442a-9b33-b1da1488587f&pf_rd_r=05R38VJ0NHDVQ6H3D7SR&th=1",
+    "product_title": "Samsung Galaxy S25 Ultra 5G (12GB RAM + 256GB Storage) Titanium Black",
+    "brand": "Visit the Samsung Store",
+    "product_image": "https://m.media-amazon.com/images/I/61-g46cjguL._SL1500_.jpg",
+    "analysis_id": "8b02e053-d3a5-424b-a5fc-4fe2e009cb80",
+    "eco_score": 79,
+    "confidence": 30.0,
+    "score_band": "Excellent",
+    "breakdown": {
+      "material": 70,
+      "packaging": null,
+      "brand_record": null,
+      "lifecycle": null,
+      "durability": null
+    },
+    "carbon_estimate": {
+      "kg_co2e": null,
+      "source": "Insufficient Evidence"
+    },
+    "sdg_mapping": [],
+    "key_findings": [
+      "Detected materials: glass",
+      "NLP Sentiment Confidence: 79/100"
+    ],
+    "positive_signals_detected": [],
+    "negative_signals_detected": [],
+    "scoring_reasoning": null,
+    "data_quality": null,
+    "created_at_client": "2026-02-21T09:41:30.680Z",
+    "ledger_id": "ddb44d1d-92af-486b-9e41-9d815163c280",
+    "scanType": "quick",
+    "status": "success",
+    "created_at": "2026-02-21T15:11:30.685283"
+  },
+  {
+    "user_id": "ext-user-1771618582175",
+    "source": "extension_quick_scan",
+    "platform": "amazon",
+    "event_type": "product_scan",
+    "canonical_url": "https://www.amazon.in/s?k=iphone+17+pro&i=electronics&crid=10HIPHR49RDUO&sprefix=iphone%2Celectronics%2C360&ref=nb_sb_ss_mvt-t11-ranker_1_6",
+    "product_title": "1-24 of over 5,000 results for \"iphone 17 pro\"\n                            \n                        \n                    \n                \n                \n            \n        \n        \n        \n            \n            \n        \n        \n            \n        \n        \n            \n                \n\n\n\n\n\n\n\n    \n        \n    \n        \n    \n        \n    \n        \n    \n        \n    \n        \n    \n    Sort by:\n        \n            Featured\n        \n            Price: Low to High\n        \n            Price: High to Low\n        \n            Avg. Customer Review\n        \n            Newest Arrivals\n        \n            Best Sellers\n        \n    Sort by:Featured\n    <span class=\"a-button a-button-base\"><span class=\"a-button-inner\"><input class=\"a-button-input\" type=\"submit\" value=\"Go\"/><span class=\"a-button-text\" aria-hidden=\"true\">Go</span></span></span>",
+    "brand": null,
+    "product_image": null,
+    "analysis_id": "0462ba2c-fa1b-47d4-af07-ae433b64ddd9",
+    "eco_score": 50,
+    "confidence": 30.0,
+    "score_band": "Fair",
+    "breakdown": {
+      "material": null,
+      "packaging": null,
+      "brand_record": null,
+      "lifecycle": null,
+      "durability": null
+    },
+    "carbon_estimate": {
+      "kg_co2e": null,
+      "source": "Insufficient Evidence"
+    },
+    "sdg_mapping": [],
+    "key_findings": [
+      "Detected materials: Unknown",
+      "NLP Sentiment Confidence: 31/100"
+    ],
+    "positive_signals_detected": [],
+    "negative_signals_detected": [],
+    "scoring_reasoning": null,
+    "data_quality": null,
+    "created_at_client": "2026-02-21T09:42:00.286Z",
+    "ledger_id": "2fa548c8-e3bd-4bc7-9c95-1886d3d7c79f",
+    "scanType": "quick",
+    "status": "success",
+    "created_at": "2026-02-21T15:12:00.299282"
+  },
+  {
+    "user_id": "ext-user-1771618582175",
+    "source": "extension_quick_scan",
+    "platform": "amazon",
+    "event_type": "product_scan",
+    "canonical_url": "https://www.amazon.in/iPhone-Pro-256-Promotion-Breakthrough/dp/B0FQG1LPVF/ref=sr_1_1_sspa?crid=10HIPHR49RDUO&dib=eyJ2IjoiMSJ9.lhSuf3do0TVFzB2OxtYgWyAfyxa5qryD_EoAzdgO4qs4MyW6pasMk6rdF-lD_6uAqmaWE_zxuSRuQueigUrCXHou0gQAGyr99xjtZnKmopEywElYmacldlzIPdIrJeBYYLvq1queO8GdY1_Mf4PmmWFM3BD3NpeLXcdWVlLOeQ_5DmiUNNxPS3GOo83cEYjOJ7Zhkk-QAQNJYcl17NBi_E_joiIjLbTJj4HcxpN-SHEYb4TmfppULyCZ47uqyKBI7RUZs2sQWpqbgWwYdcCzRc4m7UtHJLIZ5a_uh_bSWL8.bOmCNwMpFFaxj4bzvQIVv2bIGKo4vUTSFV4_Y1i-i6c&dib_tag=se&keywords=iphone%2B17%2Bpro&qid=1771666912&s=electronics&sprefix=iphone%2Celectronics%2C360&sr=1-1-spons&aref=QtLHym9213&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&th=1",
+    "product_title": "iPhone 17 Pro 256 GB: 15.93 cm (6.3\u2033) Display with Promotion up to 120Hz, A19 Pro Chip, Breakthrough Battery Life, Pro Fusion Camera System with Center Stage Front Camera; Cosmic Orange",
+    "brand": "Visit the Apple Store",
+    "product_image": "https://m.media-amazon.com/images/I/71JGCn1z1TL._SL1500_.jpg",
+    "analysis_id": "1fe3fbaf-16fa-4025-b1a6-7d8d1d337a07",
+    "eco_score": 69,
+    "confidence": 65.0,
+    "score_band": "Good",
+    "breakdown": {
+      "material": 70,
+      "packaging": null,
+      "brand_record": 50,
+      "lifecycle": 50,
+      "durability": 60
+    },
+    "carbon_estimate": {
+      "kg_co2e": null,
+      "source": "Insufficient Evidence"
+    },
+    "sdg_mapping": [],
+    "key_findings": [
+      "Detected materials: glass",
+      "NLP Sentiment Confidence: 31/100"
+    ],
+    "positive_signals_detected": [],
+    "negative_signals_detected": [],
+    "scoring_reasoning": null,
+    "data_quality": null,
+    "created_at_client": "2026-02-21T09:42:23.202Z",
+    "ledger_id": "2e6a57e4-46fd-4285-b25d-56541c7940f7",
+    "scanType": "quick",
+    "status": "success",
+    "created_at": "2026-02-21T15:12:23.207207"
+  },
+  {
+    "user_id": "ext-user-1771618582175",
+    "source": "extension_quick_scan",
+    "platform": "amazon",
+    "event_type": "product_scan",
+    "canonical_url": "https://www.amazon.in/Spigen-MagFit-Compatible-iPhone-Carbonate/dp/B0FD1MGCRL/ref=sr_1_33_sspa?crid=10HIPHR49RDUO&dib=eyJ2IjoiMSJ9.lhSuf3do0TVFzB2OxtYgWyAfyxa5qryD_EoAzdgO4qs4MyW6pasMk6rdF-lD_6uAqmaWE_zxuSRuQueigUrCXHou0gQAGyr99xjtZnKmopEywElYmacldlzIPdIrJeBYYLvq1queO8GdY1_Mf4PmmWFM3BD3NpeLXcdWVlLOeQ_5DmiUNNxPS3GOo83cEYjOJ7Zhkk-QAQNJYcl17NBi_E_joiIjLbTJj4HcxpN-SHEYb4TmfppULyCZ47uqyKBI7RUZs2sQWpqbgWwYdcCzRc4m7UtHJLIZ5a_uh_bSWL8.bOmCNwMpFFaxj4bzvQIVv2bIGKo4vUTSFV4_Y1i-i6c&dib_tag=se&keywords=iphone%2B17%2Bpro&qid=1771666912&s=electronics&sprefix=iphone%2Celectronics%2C360&sr=1-33-spons&aref=J1mPeNfdbr&sp_csd=d2lkZ2V0TmFtZT1zcF9idGY&th=1",
+    "product_title": "Spigen Thin Fit MagFit Back Cover Case Compatible with iPhone 17 Pro (TPU + Poly Carbonate | Abyss Green)",
+    "brand": "Visit the Spigen Store",
+    "product_image": "https://m.media-amazon.com/images/I/61vw2E9u5VL._SL1200_.jpg",
+    "analysis_id": "8d0cf8e9-bac6-4973-a86b-75e039b90174",
+    "eco_score": 58,
+    "confidence": 60.0,
+    "score_band": "Fair",
+    "breakdown": {
+      "material": null,
+      "packaging": null,
+      "brand_record": 50,
+      "lifecycle": 50,
+      "durability": 60
+    },
+    "carbon_estimate": {
+      "kg_co2e": 8.5,
+      "source": "Hybrid Estimate"
+    },
+    "sdg_mapping": [],
+    "key_findings": [
+      "Detected materials: Unknown",
+      "NLP Sentiment Confidence: 31/100"
+    ],
+    "positive_signals_detected": [],
+    "negative_signals_detected": [],
+    "scoring_reasoning": null,
+    "data_quality": null,
+    "created_at_client": "2026-02-21T09:44:03.990Z",
+    "ledger_id": "ec979d61-dc2b-40d6-a1c2-70b1c974945f",
+    "scanType": "quick",
+    "status": "success",
+    "created_at": "2026-02-21T15:14:03.995453"
+  },
+  {
+    "user_id": "ext-user-1771618582175",
+    "source": "extension_quick_scan",
+    "platform": "amazon",
+    "event_type": "product_scan",
+    "canonical_url": "https://www.amazon.in/Beco-Bamboo-Facial-Natural-Ecofriendly/dp/B0CB1HQT1S/ref=sr_1_10?crid=4EV6TDGA2GP8&dib=eyJ2IjoiMSJ9.-qvn-bHiuOREo8dJF_7wSJv82r-p9ggzlnjoqr4S9-T08IACPJGOhX0NJ8Hi14z4II4y5Iu9SU81ShWdkAj8SN1u9pl1I8h5PRovav6eLSXB7L1ejE9s7ZdBAuHtdVLx25DwdrEsesDkvoDVq5aSea1uHv-q5I4DzdS_4rRkTZjYda8JSWxDW-HHEVgVTowJur5EAZxWcvEcbJKD5qfcnT1gPv5IFJKHiC2Jj66wQuDzaXbE6KESYonDGLnnjIMm9gKiywsXdW7nSzXzgAZx2HIXdp2wf7zfPh7bnTSI8Ig.Ku388r0-Oq75GsY0EodbvBqny7SA43GekwuJcnlgyMg&dib_tag=se&keywords=ecofriendly&qid=1771662079&s=kitchen&sprefix=ecofriendly%2Ckitchen%2C372&sr=1-10&th=1",
+    "product_title": "Beco Bamboo Facial Tissue Paper Box-Soft Pack | 100 pulls x 6 packs | Super Soft, Skin Friendly & Highly Absorbent Face Tissue Napkins | Car Tissues | 100% Natural & Ecofriendly | 2 ply-600 Pulls",
+    "brand": "Visit the Beco Store",
+    "product_image": "https://m.media-amazon.com/images/I/71i3R11JVbL._SL1500_.jpg",
+    "analysis_id": "9f507d4a-75fd-48a8-861a-a757c85d18ab",
+    "eco_score": 61,
+    "confidence": 85.0,
+    "score_band": "Good",
+    "breakdown": {
+      "material": 85,
+      "packaging": 45,
+      "brand_record": 50,
+      "lifecycle": 50,
+      "durability": 60
+    },
+    "carbon_estimate": {
+      "kg_co2e": 8.5,
+      "source": "Hybrid Estimate"
+    },
+    "sdg_mapping": [],
+    "key_findings": [
+      "Detected materials: biodegradable, bamboo",
+      "Warning: Contains single-use",
+      "NLP Sentiment Confidence: 33/100"
+    ],
+    "positive_signals_detected": [],
+    "negative_signals_detected": [],
+    "scoring_reasoning": null,
+    "data_quality": null,
+    "created_at_client": "2026-02-21T09:44:28.488Z",
+    "ledger_id": "05662057-a7e2-4920-b4f6-96fecce2e056",
+    "scanType": "quick",
+    "status": "success",
+    "created_at": "2026-02-21T15:14:28.493971"
+  },
+  {
+    "user_id": "ext-user-1771618582175",
+    "source": "extension_quick_scan",
+    "platform": "amazon",
+    "event_type": "product_scan",
+    "canonical_url": "https://www.amazon.in/Cylindrical-Biodegradable-Chemical-Free-Disposable-Eco-Friendly/dp/B0D9QRJJ22/ref=pb_allspark_dp_sims_pao_desktop_session_based_d_sccl_1_4/521-6858183-5423043?pd_rd_w=xz2uL&content-id=amzn1.sym.e84a26b2-5470-42e6-b7fa-162e7bb17185&pf_rd_p=e84a26b2-5470-42e6-b7fa-162e7bb17185&pf_rd_r=6GB7MEBCKF8S78KZ3GNX&pd_rd_wg=GkcfD&pd_rd_r=b2a71768-4d04-46b6-871c-68a1016ddd32&pd_rd_i=B0D9QRJJ22&th=1",
+    "product_title": "IMECO Bamboo Facial Tissue Paper Cylindrical Box | 100 Pulls (Pack of 2) | Natural & Biodegradable| Chemical-Free & Disposable Napkins | Soft, Eco-Friendly Tissues for Travel, Car & Daily Use",
+    "brand": "Visit the i'm eco Store",
+    "product_image": "https://m.media-amazon.com/images/I/81IFXknqCbL._SL1500_.jpg",
+    "analysis_id": "02b78b44-aa0b-48a0-9159-03608b0a1875",
+    "eco_score": 55,
+    "confidence": 85.0,
+    "score_band": "Fair",
+    "breakdown": {
+      "material": 85,
+      "packaging": 45,
+      "brand_record": 50,
+      "lifecycle": 50,
+      "durability": 30
+    },
+    "carbon_estimate": {
+      "kg_co2e": null,
+      "source": "Insufficient Evidence"
+    },
+    "sdg_mapping": [],
+    "key_findings": [
+      "Detected materials: biodegradable, bamboo",
+      "Warning: Contains single-use",
+      "NLP Sentiment Confidence: 31/100"
+    ],
+    "positive_signals_detected": [],
+    "negative_signals_detected": [],
+    "scoring_reasoning": null,
+    "data_quality": null,
+    "created_at_client": "2026-02-21T09:44:43.246Z",
+    "ledger_id": "f0bc8a58-9572-4f9a-adbc-f90d0682c612",
+    "scanType": "quick",
+    "status": "success",
+    "created_at": "2026-02-21T15:14:43.297870"
+  },
+  {
+    "user_id": "ext-user-1771618582175",
+    "source": "extension_quick_scan",
+    "platform": "amazon",
+    "event_type": "product_scan",
+    "canonical_url": "https://www.amazon.in/Eco-Friendly-Stainless-Thermos-Strainer-Insulated/dp/B0D4V1HCQS/ref=sr_1_17?crid=4EV6TDGA2GP8&dib=eyJ2IjoiMSJ9.-qvn-bHiuOREo8dJF_7wSJv82r-p9ggzlnjoqr4S9-T08IACPJGOhX0NJ8Hi14z4II4y5Iu9SU81ShWdkAj8SN1u9pl1I8h5PRovav6eLSXB7L1ejE9s7ZdBAuHtdVLx25DwdrEsesDkvoDVq5aSea1uHv-q5I4DzdS_4rRkTZjYda8JSWxDW-HHEVgVTowJur5EAZxWcvEcbJKD5qfcnT1gPv5IFJKHiC2Jj66wQuDzaXbE6KESYonDGLnnjIMm9gKiywsXdW7nSzXzgAZx2HIXdp2wf7zfPh7bnTSI8Ig.Ku388r0-Oq75GsY0EodbvBqny7SA43GekwuJcnlgyMg&dib_tag=se&keywords=ecofriendly&qid=1771662079&s=kitchen&sprefix=ecofriendly%2Ckitchen%2C372&sr=1-17&th=1",
+    "product_title": "GKD Eco-Friendly Bamboo Water Bottle, Stainless Steel Flask Water Bottle/Thermos with Tea Strainer | Double Wall Vacuum Insulated | Hot & Cold, 500ml",
+    "brand": "Visit the Gift Kya De Store",
+    "product_image": "https://m.media-amazon.com/images/I/81HrZmVmmiL._SL1500_.jpg",
+    "analysis_id": "20d3bf68-e4f3-44f1-82dd-1f8ac003d341",
+    "eco_score": 71,
+    "confidence": 85.0,
+    "score_band": "Good",
+    "breakdown": {
+      "material": 70,
+      "packaging": 70,
+      "brand_record": 50,
+      "lifecycle": 50,
+      "durability": null
+    },
+    "carbon_estimate": {
+      "kg_co2e": 1.2,
+      "source": "Hybrid Estimate"
+    },
+    "sdg_mapping": [],
+    "key_findings": [
+      "Detected materials: bamboo, stainless steel",
+      "NLP Sentiment Confidence: 31/100"
+    ],
+    "positive_signals_detected": [],
+    "negative_signals_detected": [],
+    "scoring_reasoning": null,
+    "data_quality": null,
+    "created_at_client": "2026-02-21T09:44:46.554Z",
+    "ledger_id": "e2b9c88e-0ab6-4662-86ca-b82b1b6b1f1c",
+    "scanType": "quick",
+    "status": "success",
+    "created_at": "2026-02-21T15:14:46.610480"
+  },
+  {
+    "user_id": "web-user-1771618709918",
+    "source": "deep_analysis",
+    "platform": "amazon",
+    "event_type": "product_scan",
+    "canonical_url": "https://www.amazon.in/Eco-Friendly-Stainless-Thermos-Strainer-Insulated/dp/B0D4V1HCQS/ref=sr_1_17",
+    "product_title": "GKD Eco-Friendly Bamboo Water Bottle, Stainless Steel Flask Water Bottle/Thermos with Tea Strainer | Double Wall Vacuum Insulated | Hot & Cold, 500ml",
+    "brand": "Visit the Gift Kya De Store",
+    "product_image": "https://m.media-amazon.com/images/I/81HrZmVmmiL._SL1500_.jpg",
+    "analysis_id": "20d3bf68-e4f3-44f1-82dd-1f8ac003d341",
+    "eco_score": 71,
+    "confidence": 85.0,
+    "score_band": "Good",
+    "breakdown": {
+      "material": 70,
+      "packaging": 70,
+      "brand_record": 50,
+      "lifecycle": 50,
+      "durability": null
+    },
+    "carbon_estimate": {
+      "kg_co2e": 1.2,
+      "source": "Hybrid Estimate"
+    },
+    "sdg_mapping": [],
+    "key_findings": [
+      "Detected materials: bamboo, stainless steel",
+      "NLP Sentiment Confidence: 31/100"
+    ],
+    "positive_signals_detected": [],
+    "negative_signals_detected": [],
+    "scoring_reasoning": null,
+    "data_quality": null,
+    "created_at_client": "2026-02-21T10:01:47.283Z",
+    "ledger_id": "455021b7-70f8-49d8-bd57-4dc45c17a11e",
+    "scanType": "full",
+    "status": "success",
+    "created_at": "2026-02-21T15:31:47.306582"
+  },
+  {
+    "user_id": "ext-user-1771618582175",
+    "source": "extension_quick_scan",
+    "platform": "amazon",
+    "event_type": "product_scan",
+    "canonical_url": "https://www.amazon.in/Kitchen-Clean-Stitched-Chemical-Eco-Friendly/dp/B0CRSX74SD/ref=sr_1_5?crid=4EV6TDGA2GP8&dib=eyJ2IjoiMSJ9.-qvn-bHiuOREo8dJF_7wSJv82r-p9ggzlnjoqr4S9-T08IACPJGOhX0NJ8Hi14z4II4y5Iu9SU81ShWdkAj8SN1u9pl1I8h5PRovav6eLSXB7L1ejE9s7ZdBAuHtdVLx25DwdrEsesDkvoDVq5aSea1uHv-q5I4DzdS_4rRkTZjYda8JSWxDW-HHEVgVTowJur5EAZxWcvEcbJKD5qfcnT1gPv5IFJKHiC2Jj66wQuDzaXbE6KESYonDGLnnjIMm9gKiywsXdW7nSzXzgAZx2HIXdp2wf7zfPh7bnTSI8Ig.Ku388r0-Oq75GsY0EodbvBqny7SA43GekwuJcnlgyMg&dib_tag=se&keywords=ecofriendly&qid=1771662079&s=kitchen&sprefix=ecofriendly%2Ckitchen%2C372&sr=1-5&th=1",
+    "product_title": "10 Pcs Small Nariyal Juna Scrub | Stitched for Long Lasting | Natural Chemical Free Coconut Nariyal Juna | Eco-Friendly Coco Scrub Cleaning pad (Brown, Small 3x4 inch, Pack of 10 Pcs)",
+    "brand": "Visit the Kitchen Clean Store",
+    "product_image": "https://m.media-amazon.com/images/I/71j4Z3GoAqL._SL1500_.jpg",
+    "analysis_id": "e3d84dc3-64c4-4269-8a96-b43d246ea374",
+    "eco_score": 87,
+    "confidence": 85.0,
+    "score_band": "Excellent",
+    "breakdown": {
+      "material": 95,
+      "packaging": null,
+      "brand_record": 50,
+      "lifecycle": 50,
+      "durability": 90
+    },
+    "carbon_estimate": {
+      "kg_co2e": 4.5,
+      "source": "Hybrid Estimate"
+    },
+    "sdg_mapping": [],
+    "key_findings": [
+      "Detected materials: cotton, biodegradable, glass, stainless steel, coir",
+      "NLP Sentiment Confidence: 31/100"
+    ],
+    "positive_signals_detected": [],
+    "negative_signals_detected": [],
+    "scoring_reasoning": null,
+    "data_quality": null,
+    "created_at_client": "2026-02-21T10:04:41.008Z",
+    "ledger_id": "868dfe6b-023f-451c-8be0-3dc7985070af",
+    "scanType": "quick",
+    "status": "success",
+    "created_at": "2026-02-21T15:34:41.013342"
+  },
+  {
+    "user_id": "web-user-1771618709918",
+    "source": "deep_analysis",
+    "platform": "amazon",
+    "event_type": "product_scan",
+    "canonical_url": "https://www.amazon.in/Kitchen-Clean-Stitched-Chemical-Eco-Friendly/dp/B0CRSX74SD/ref=sr_1_5",
+    "product_title": "10 Pcs Small Nariyal Juna Scrub | Stitched for Long Lasting | Natural Chemical Free Coconut Nariyal Juna | Eco-Friendly Coco Scrub Cleaning pad (Brown, Small 3x4 inch, Pack of 10 Pcs)",
+    "brand": "Visit the Kitchen Clean Store",
+    "product_image": "https://m.media-amazon.com/images/I/71j4Z3GoAqL._SL1500_.jpg",
+    "analysis_id": "e3d84dc3-64c4-4269-8a96-b43d246ea374",
+    "eco_score": 87,
+    "confidence": 85.0,
+    "score_band": "Excellent",
+    "breakdown": {
+      "material": 95,
+      "packaging": null,
+      "brand_record": 50,
+      "lifecycle": 50,
+      "durability": 90
+    },
+    "carbon_estimate": {
+      "kg_co2e": 4.5,
+      "source": "Hybrid Estimate"
+    },
+    "sdg_mapping": [],
+    "key_findings": [
+      "Detected materials: cotton, biodegradable, glass, stainless steel, coir",
+      "NLP Sentiment Confidence: 31/100"
+    ],
+    "positive_signals_detected": [],
+    "negative_signals_detected": [],
+    "scoring_reasoning": null,
+    "data_quality": null,
+    "created_at_client": "2026-02-21T09:45:28.305Z",
+    "ledger_id": "5a0dc05c-f93e-4f4e-8a17-bf01f9fa8664",
+    "scanType": "full",
+    "status": "success",
+    "created_at": "2026-02-21T15:15:28.357202"
+  },
+  {
+    "user_id": "ext-user-1771618582175",
+    "source": "extension_quick_scan",
+    "platform": "amazon",
+    "event_type": "product_scan",
+    "canonical_url": "https://www.amazon.in/s?k=plastic&i=kitchen&crid=3R2ZKCNLDYDK2&sprefix=plasti%2Ckitchen%2C365&ref=nb_sb_noss_2",
+    "product_title": "1-24 of over 60,000 results for \"plastic\"\n                            \n                        \n                    \n                \n                \n            \n        \n        \n        \n            \n            \n        \n        \n            \n        \n        \n            \n                \n\n\n\n\n\n\n\n    \n        \n    \n        \n    \n        \n    \n        \n    \n        \n    \n        \n    \n    Sort by:\n        \n            Featured\n        \n            Price: Low to High\n        \n            Price: High to Low\n        \n            Avg. Customer Review\n        \n            Newest Arrivals\n        \n            Best Sellers\n        \n    Sort by:Featured\n    <span class=\"a-button a-button-base\"><span class=\"a-button-inner\"><input class=\"a-button-input\" type=\"submit\" value=\"Go\"/><span class=\"a-button-text\" aria-hidden=\"true\">Go</span></span></span>",
+    "brand": null,
+    "product_image": null,
+    "analysis_id": "0462ba2c-fa1b-47d4-af07-ae433b64ddd9",
+    "eco_score": 50,
+    "confidence": 30.0,
+    "score_band": "Fair",
+    "breakdown": {
+      "material": null,
+      "packaging": null,
+      "brand_record": null,
+      "lifecycle": null,
+      "durability": null
+    },
+    "carbon_estimate": {
+      "kg_co2e": null,
+      "source": "Insufficient Evidence"
+    },
+    "sdg_mapping": [],
+    "key_findings": [
+      "Detected materials: Unknown",
+      "NLP Sentiment Confidence: 31/100"
+    ],
+    "positive_signals_detected": [],
+    "negative_signals_detected": [],
+    "scoring_reasoning": null,
+    "data_quality": null,
+    "created_at_client": "2026-02-21T09:46:11.211Z",
+    "ledger_id": "7ddb0942-26c1-4fbb-884e-c76129103acc",
+    "scanType": "quick",
+    "status": "success",
+    "created_at": "2026-02-21T15:16:11.217354"
+  },
+  {
+    "user_id": "ext-user-1771618582175",
+    "source": "extension_quick_scan",
+    "platform": "amazon",
+    "event_type": "product_scan",
+    "canonical_url": "https://www.amazon.in/Aristo-Swift-Plastic-Storage-Container/dp/B0BRNH7GTP/ref=sr_1_8?crid=3R2ZKCNLDYDK2&dib=eyJ2IjoiMSJ9.g0Y6WxYC5vL4QkR6ZplCHL3kINXVpRjoZLMOcscPUqu9WeRQkfmtoLtQ6K6oS0tjGxCucw7WvLqcPM-EtCF0flomv7iRuZqGLgHy_tzB84ZVpGnfDac1eOWlBx8JxXo74NpAp1CZoRfHe1YOBZusMRfihw2IjwLvjanO3LAymRdFMfXSCIfW9g_rWtVjSLOp3M-_1awyK_4NLg7EwHjLcxL_D0ro2gPBm5gdCw-YqqDGm2O99H6KtWS2tCCtsQfUTBH8xZ3t0PmPBCQO50gfGG0CLWNgzKMWOuuincV3clg.XB2092L891fGLXoG1zuWZKNOzb0Sp3YCUfbadoEMtzk&dib_tag=se&keywords=plastic&qid=1771667164&s=kitchen&sprefix=plasti%2Ckitchen%2C365&sr=1-8",
+    "product_title": "Aristo Swift Plastic Storage Container 300ml - Set Of 3 -Color May Vary",
+    "brand": "ARISTO",
+    "product_image": "https://m.media-amazon.com/images/I/31rstYjNLWL._SX355_.jpg",
+    "analysis_id": "cb97f47c-f514-41c8-8e89-cf64707c5da8",
+    "eco_score": 55,
+    "confidence": 30.0,
+    "score_band": "Fair",
+    "breakdown": {
+      "material": null,
+      "packaging": null,
+      "brand_record": null,
+      "lifecycle": null,
+      "durability": null
+    },
+    "carbon_estimate": {
+      "kg_co2e": 8.5,
+      "source": "Hybrid Estimate"
+    },
+    "sdg_mapping": [],
+    "key_findings": [
+      "Detected materials: Unknown",
+      "NLP Sentiment Confidence: 79/100"
+    ],
+    "positive_signals_detected": [],
+    "negative_signals_detected": [],
+    "scoring_reasoning": null,
+    "data_quality": null,
+    "created_at_client": "2026-02-21T09:46:14.298Z",
+    "ledger_id": "35871384-2864-4d84-8451-b79818eaec64",
+    "scanType": "quick",
+    "status": "success",
+    "created_at": "2026-02-21T15:16:14.312817"
+  },
+  {
+    "user_id": "ext-user-1771618582175",
+    "source": "extension_quick_scan",
+    "platform": "amazon",
+    "event_type": "product_scan",
+    "canonical_url": "https://www.amazon.in/SANWALSA-15-Rectangle-Containers-Microwave/dp/B0FY6VJ8DJ/ref=sr_1_10?crid=3R2ZKCNLDYDK2&dib=eyJ2IjoiMSJ9.g0Y6WxYC5vL4QkR6ZplCHL3kINXVpRjoZLMOcscPUqu9WeRQkfmtoLtQ6K6oS0tjGxCucw7WvLqcPM-EtCF0flomv7iRuZqGLgHy_tzB84ZVpGnfDac1eOWlBx8JxXo74NpAp1CZoRfHe1YOBZusMRfihw2IjwLvjanO3LAymRdFMfXSCIfW9g_rWtVjSLOp3M-_1awyK_4NLg7EwHjLcxL_D0ro2gPBm5gdCw-YqqDGm2O99H6KtWS2tCCtsQfUTBH8xZ3t0PmPBCQO50gfGG0CLWNgzKMWOuuincV3clg.XB2092L891fGLXoG1zuWZKNOzb0Sp3YCUfbadoEMtzk&dib_tag=se&keywords=plastic&qid=1771667164&s=kitchen&sprefix=plasti%2Ckitchen%2C365&sr=1-10&th=1",
+    "product_title": "[1000 ml, 15 Count, Rectangle, Black Reusable Plastic Food Storage Containers with Lid | Airtight, Microwave Safe Containers | Perfect for Meal Prep, Storage, Takeaway & Food Delivery",
+    "brand": "SANWALSA",
+    "product_image": "https://m.media-amazon.com/images/I/51f0PIJhKLL._SX466_.jpg",
+    "analysis_id": "fbfd8cc8-2b8b-457e-a36c-d6ccdef47dbc",
+    "eco_score": 67,
+    "confidence": 60.0,
+    "score_band": "Good",
+    "breakdown": {
+      "material": null,
+      "packaging": null,
+      "brand_record": 50,
+      "lifecycle": 50,
+      "durability": 80
+    },
+    "carbon_estimate": {
+      "kg_co2e": 8.5,
+      "source": "Hybrid Estimate"
+    },
+    "sdg_mapping": [],
+    "key_findings": [
+      "Detected materials: Unknown",
+      "NLP Sentiment Confidence: 31/100"
+    ],
+    "positive_signals_detected": [],
+    "negative_signals_detected": [],
+    "scoring_reasoning": null,
+    "data_quality": null,
+    "created_at_client": "2026-02-21T09:46:33.922Z",
+    "ledger_id": "f6e220bf-d6cd-4de5-9e10-906ead78f1c4",
+    "scanType": "quick",
+    "status": "success",
+    "created_at": "2026-02-21T15:16:33.928170"
+  },
+  {
+    "user_id": "ext-user-1771618582175",
+    "source": "extension_quick_scan",
+    "platform": "amazon",
+    "event_type": "product_scan",
+    "canonical_url": "https://www.amazon.in/s?k=garbage+bags+medium+size&i=kitchen&crid=3IPAEJLS4V25H&sprefix=garbage%2Ckitchen%2C347&ref=nb_sb_ss_mvt-t11-ranker_1_7",
+    "product_title": "1-24 of over 2,000 results for \"garbage bags medium size\"\n                            \n                        \n                    \n                \n                \n            \n        \n        \n        \n            \n            \n        \n        \n            \n        \n        \n            \n                \n\n\n\n\n\n\n\n    \n        \n    \n        \n    \n        \n    \n        \n    \n        \n    \n        \n    \n    Sort by:\n        \n            Featured\n        \n            Price: Low to High\n        \n            Price: High to Low\n        \n            Avg. Customer Review\n        \n            Newest Arrivals\n        \n            Best Sellers\n        \n    Sort by:Featured\n    <span class=\"a-button a-button-base\"><span class=\"a-button-inner\"><input class=\"a-button-input\" type=\"submit\" value=\"Go\"/><span class=\"a-button-text\" aria-hidden=\"true\">Go</span></span></span>",
+    "brand": null,
+    "product_image": null,
+    "analysis_id": "0462ba2c-fa1b-47d4-af07-ae433b64ddd9",
+    "eco_score": 50,
+    "confidence": 30.0,
+    "score_band": "Fair",
+    "breakdown": {
+      "material": null,
+      "packaging": null,
+      "brand_record": null,
+      "lifecycle": null,
+      "durability": null
+    },
+    "carbon_estimate": {
+      "kg_co2e": null,
+      "source": "Insufficient Evidence"
+    },
+    "sdg_mapping": [],
+    "key_findings": [
+      "Detected materials: Unknown",
+      "NLP Sentiment Confidence: 31/100"
+    ],
+    "positive_signals_detected": [],
+    "negative_signals_detected": [],
+    "scoring_reasoning": null,
+    "data_quality": null,
+    "created_at_client": "2026-02-21T09:47:11.797Z",
+    "ledger_id": "998e6950-9af9-45a6-8d1b-186b19735052",
+    "scanType": "quick",
+    "status": "success",
+    "created_at": "2026-02-21T15:17:11.807157"
+  },
+  {
+    "user_id": "ext-user-1771618582175",
+    "source": "extension_quick_scan",
+    "platform": "amazon",
+    "event_type": "product_scan",
+    "canonical_url": "https://www.amazon.in/Amazon-Brand-Presto-Oxo-Biodegradable-Garbage/dp/B0821PN8L4/ref=sr_1_2_in_f3_0o_fs_sspa?crid=3IPAEJLS4V25H&dib=eyJ2IjoiMSJ9.gwkzsIt8LpQhfqkhYdjeXZZXvzh_wzCqtVF5yVuNhC44L12AV_hAftZBP0BlYx-sQl-_jxhVObjy6rdsXSdhC-k9EElPe9kzUU-Hqxo7BK0slPyUh9AImOL_D0Ock82CboPKMPl0clc_LMSxrdl-ByjGvJBkFeEbZN40UMOkIWdS02KUUX4mcri3LjKi5z_ZwCsZsOyQDiHnbA7BF0_EMvvoy1UW2rOaIM4z2sA0PPFb5BzBHsFB-argA_AtlS-atojrAdykxyPCrBpf87gJGh4c8DAAy4f_nxL_mayLNSY.3F4Xl7_qI_IMW8cUqtJWTE5qlTt2PiiFcrYBlnc9yrg&dib_tag=se&keywords=garbage%2Bbags%2Bmedium%2Bsize&qid=1771667224&s=kitchen&sprefix=garbage%2Ckitchen%2C347&sr=1-2-spons&aref=Rm4SyZ0hB0&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&th=1",
+    "product_title": "Amazon Brand - Presto! Garbage Bags | Medium | 180 Count | 30 Bags X 6 Rolls | 19 X 21 Inches | For Dry & Wet Waste | Black",
+    "brand": "Visit the Presto! Store",
+    "product_image": "https://m.media-amazon.com/images/I/61fn1xtHO4L._SL1500_.jpg",
+    "analysis_id": "fda566d7-5594-4c5a-89de-e0fd47b27810",
+    "eco_score": 50,
+    "confidence": 30.0,
+    "score_band": "Fair",
+    "breakdown": {
+      "material": null,
+      "packaging": null,
+      "brand_record": null,
+      "lifecycle": null,
+      "durability": null
+    },
+    "carbon_estimate": {
+      "kg_co2e": 8.5,
+      "source": "Hybrid Estimate"
+    },
+    "sdg_mapping": [],
+    "key_findings": [
+      "Detected materials: Unknown",
+      "NLP Sentiment Confidence: 31/100"
+    ],
+    "positive_signals_detected": [],
+    "negative_signals_detected": [],
+    "scoring_reasoning": null,
+    "data_quality": null,
+    "created_at_client": "2026-02-21T09:47:20.888Z",
+    "ledger_id": "555fd7b8-c750-466e-ae97-57bc27aab022",
+    "scanType": "quick",
+    "status": "success",
+    "created_at": "2026-02-21T15:17:20.898988"
+  },
+  {
+    "user_id": "ext-user-1771618582175",
+    "source": "extension_quick_scan",
+    "platform": "amazon",
+    "event_type": "product_scan",
+    "canonical_url": "https://www.amazon.in/Innovista-Polyethylene-Premium-Garbage-Bags/dp/B0DK3LLRZ3/ref=sr_1_9?crid=3IPAEJLS4V25H&dib=eyJ2IjoiMSJ9.gwkzsIt8LpQhfqkhYdjeXZZXvzh_wzCqtVF5yVuNhC44L12AV_hAftZBP0BlYx-sQl-_jxhVObjy6rdsXSdhC-k9EElPe9kzUU-Hqxo7BK0slPyUh9AImOL_D0Ock82CboPKMPl0clc_LMSxrdl-ByjGvJBkFeEbZN40UMOkIWdS02KUUX4mcri3LjKi5z_ZwCsZsOyQDiHnbA7BF0_EMvvoy1UW2rOaIM4z2sA0PPFb5BzBHsFB-argA_AtlS-atojrAdykxyPCrBpf87gJGh4c8DAAy4f_nxL_mayLNSY.3F4Xl7_qI_IMW8cUqtJWTE5qlTt2PiiFcrYBlnc9yrg&dib_tag=se&keywords=garbage%2Bbags%2Bmedium%2Bsize&qid=1771667224&s=kitchen&sprefix=garbage%2Ckitchen%2C347&sr=1-9&th=1",
+    "product_title": "Polyethylene Premium Garbage Bags 180 Pcs - Medium Size 19 x 21 Inches|Leakproof|Odour Free|Strong Garbage Bags Medium Size - Pack of 6|30 Pieces Each, Black",
+    "brand": "Visit the Innovista Store",
+    "product_image": "https://m.media-amazon.com/images/I/61vw88aRNmL._SL1500_.jpg",
+    "analysis_id": "9a5d925b-6aa4-4e13-bae2-1ebb760e3e96",
+    "eco_score": 58,
+    "confidence": 60.0,
+    "score_band": "Fair",
+    "breakdown": {
+      "material": null,
+      "packaging": null,
+      "brand_record": 50,
+      "lifecycle": 50,
+      "durability": 60
+    },
+    "carbon_estimate": {
+      "kg_co2e": null,
+      "source": "Insufficient Evidence"
+    },
+    "sdg_mapping": [],
+    "key_findings": [
+      "Detected materials: Unknown",
+      "NLP Sentiment Confidence: 31/100"
+    ],
+    "positive_signals_detected": [],
+    "negative_signals_detected": [],
+    "scoring_reasoning": null,
+    "data_quality": null,
+    "created_at_client": "2026-02-21T09:47:42.400Z",
+    "ledger_id": "f3538519-3ea6-4360-a360-84fb04a53a5e",
+    "scanType": "quick",
+    "status": "success",
+    "created_at": "2026-02-21T15:17:42.405471"
+  },
+  {
+    "user_id": "ext-user-1771618582175",
+    "source": "extension_quick_scan",
+    "platform": "amazon",
+    "event_type": "product_scan",
+    "canonical_url": "https://www.amazon.in/Transparent-Polythene-Packing-Sealable-Adhesive/dp/B09NNKWP18/ref=sr_1_4?crid=2NW7QNLPA5QDW&dib=eyJ2IjoiMSJ9.9H3MVnL7pu6vgFM3sDxx-Io3sp8f2D92jvC-4IpRWwH9T4QvKwPY7DrobHlcqrJLigUs-iiTQqERpY2a3gHnwr6e6-9udCRf5Djxp1QTTvDMymj52eDYzYwt8ebnUBRuJnz1qEtMHlgTOSO_9Qh9x7qrSXX4s6b2f_afBVwi3zjjaI-wEAIyCSYV1H87nw2HgsBKxDMKRB-xszvMBlqHOEzFCIFi54_yo1qIkdJT2ONCX247f3AFMp7YOjpt7qjcSy5d7_Cm28h-SVK8UQHhZIx9Qs2KFBvC_o-cjwqp0zo.THemCpp8GlJFWlYoUcLgMBDYT1nofWe8E1bCDOcr8hI&dib_tag=se&keywords=plastic+cover&qid=1771667278&s=kitchen&sprefix=plastic+cove%2Ckitchen%2C349&sr=1-4",
+    "product_title": "Plastic 50 Pc 14X18 Size Transparent Polythene Bags For Saree Packing Clothes Large Size Saree Polybag Clear Cover Sealable Shirt Pant Storage Self Adhesive Bopp Pouches With 2 Inch Base",
+    "brand": "Generic",
+    "product_image": "https://m.media-amazon.com/images/I/51M1vGGUNbS._SL1500_.jpg",
+    "analysis_id": "a54e7a0a-8405-48a0-98eb-dc99fa003d63",
+    "eco_score": 54,
+    "confidence": 30.0,
+    "score_band": "Fair",
+    "breakdown": {
+      "material": null,
+      "packaging": null,
+      "brand_record": 50,
+      "lifecycle": 50,
+      "durability": null
+    },
+    "carbon_estimate": {
+      "kg_co2e": 8.5,
+      "source": "Hybrid Estimate"
+    },
+    "sdg_mapping": [],
+    "key_findings": [
+      "Detected materials: Unknown",
+      "NLP Sentiment Confidence: 31/100"
+    ],
+    "positive_signals_detected": [],
+    "negative_signals_detected": [],
+    "scoring_reasoning": null,
+    "data_quality": null,
+    "created_at_client": "2026-02-21T09:48:14.546Z",
+    "ledger_id": "49dc7cf0-f7a7-4dcc-8d1c-cafa502c855d",
+    "scanType": "quick",
+    "status": "success",
+    "created_at": "2026-02-21T15:18:14.552236"
+  },
+  {
+    "user_id": "ext-user-1771618582175",
+    "source": "extension_quick_scan",
+    "platform": "amazon",
+    "event_type": "product_scan",
+    "canonical_url": "https://www.amazon.in/Zip-lock-Pouches-RE-USABLE-Transparent/dp/B0C1P3T71K/ref=sr_1_6?crid=2NW7QNLPA5QDW&dib=eyJ2IjoiMSJ9.9H3MVnL7pu6vgFM3sDxx-Io3sp8f2D92jvC-4IpRWwH9T4QvKwPY7DrobHlcqrJLigUs-iiTQqERpY2a3gHnwr6e6-9udCRf5Djxp1QTTvDMymj52eDYzYwt8ebnUBRuJnz1qEtMHlgTOSO_9Qh9x7qrSXX4s6b2f_afBVwi3zjjaI-wEAIyCSYV1H87nw2HgsBKxDMKRB-xszvMBlqHOEzFCIFi54_yo1qIkdJT2ONCX247f3AFMp7YOjpt7qjcSy5d7_Cm28h-SVK8UQHhZIx9Qs2KFBvC_o-cjwqp0zo.THemCpp8GlJFWlYoUcLgMBDYT1nofWe8E1bCDOcr8hI&dib_tag=se&keywords=plastic%2Bcover&qid=1771667278&s=kitchen&sprefix=plastic%2Bcove%2Ckitchen%2C349&sr=1-6&th=1",
+    "product_title": "ProKart Premium Zip lock Pouches, Zip lock Bag For Prasad Bag Storage, Freezer RE-USABLE Zipper Bags, Ziplock Bags For Fridge Storage, Zip lock bags Medium Transparent (3\"X 4\") (50 Ziplock Pouch)",
+    "brand": "Visit the Prokart Store",
+    "product_image": "https://m.media-amazon.com/images/I/41cSsJemruL._SL1024_.jpg",
+    "analysis_id": "7c1a8d57-4990-4981-86ef-2beb6d1c40ba",
+    "eco_score": 26,
+    "confidence": 65.0,
+    "score_band": "Poor",
+    "breakdown": {
+      "material": 25,
+      "packaging": 25,
+      "brand_record": 50,
+      "lifecycle": 50,
+      "durability": 60
+    },
+    "carbon_estimate": {
+      "kg_co2e": 8.5,
+      "source": "Hybrid Estimate"
+    },
+    "sdg_mapping": [],
+    "key_findings": [
+      "Detected materials: Unknown",
+      "Warning: Contains single-use, pvc",
+      "NLP Sentiment Confidence: 31/100"
+    ],
+    "positive_signals_detected": [],
+    "negative_signals_detected": [],
+    "scoring_reasoning": null,
+    "data_quality": null,
+    "created_at_client": "2026-02-21T09:48:40.724Z",
+    "ledger_id": "2202c059-9fa7-40ac-ba0a-4aa8dae8001f",
+    "scanType": "quick",
+    "status": "success",
+    "created_at": "2026-02-21T15:18:40.785277"
+  },
+  {
+    "user_id": "ext-user-1771618582175",
+    "source": "extension_quick_scan",
+    "platform": "amazon",
+    "event_type": "product_scan",
+    "canonical_url": "https://www.amazon.in/BRUTON-Sneakers-Casual-Walking-Men-Grey/dp/B0CWP8XQPQ/ref=sr_1_2_sspa?crid=13F7PZUJ2M68H&dib=eyJ2IjoiMSJ9.Xgy6oXqed_AScgV7LVv42DzAkgDif3S2piZ9_-WZV0ikdKYR3zEqwcTQIL5F1wgbS3QE79vz6UODC4qcDCP2shALC2P0yDL03gUrxbMdDhb5LoTyRMtcxIdB_PwlfWuRP6Y_swpctSKJPth4VffbDpt2O3qCcaqgms_gqRs5iMGPLu5wFtulbPkyXUCsw3RM49xZinW0Xr-MEgIlV93WONK26dN3O_TN7R0Lw-E_yuR2uucKkbJDaoUD3mC_TuN2M1t0kvuVry0Psxo6gf7Ez5C5jl9KvvocDDIcfwL9Tjk.xhO2kmWjZPL8fdTEO8wK0qz5739H6tO4aOxRhYo2lHw&dib_tag=se&keywords=shoes&qid=1771668864&sprefix=sho%2Caps%2C619&sr=8-2-spons&aref=0B1e79vKxt&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&th=1&psc=1",
+    "product_title": "BRUTON EVA Lite Sneakers",
+    "brand": "Visit the BRUTON Store",
+    "product_image": "https://m.media-amazon.com/images/I/61VHvg7wvCL._SL1500_.jpg",
+    "analysis_id": "8d1e025b-9bff-4681-9b36-55a058023ed5",
+    "eco_score": 55,
+    "confidence": 30.0,
+    "score_band": "Fair",
+    "breakdown": {
+      "material": null,
+      "packaging": null,
+      "brand_record": null,
+      "lifecycle": null,
+      "durability": null
+    },
+    "carbon_estimate": {
+      "kg_co2e": null,
+      "source": "Insufficient Evidence"
+    },
+    "sdg_mapping": [],
+    "key_findings": [
+      "Detected materials: Unknown",
+      "NLP Sentiment Confidence: 79/100"
+    ],
+    "positive_signals_detected": [],
+    "negative_signals_detected": [],
+    "scoring_reasoning": null,
+    "data_quality": null,
+    "created_at_client": "2026-02-21T10:15:22.370Z",
+    "ledger_id": "4b35b4b7-6ad0-4b99-bbce-b52022ed9ebd",
+    "scanType": "quick",
+    "status": "success",
+    "created_at": "2026-02-21T15:45:22.441080"
+  },
+  {
+    "user_id": "ext-user-1771618582175",
+    "source": "extension_quick_scan",
+    "platform": "amazon",
+    "event_type": "product_scan",
+    "canonical_url": "https://www.amazon.in/s?k=iphone&crid=34K9DBM2A8JI4&sprefix=ipho%2Caps%2C373&ref=nb_sb_noss_2",
+    "product_title": "1-16 of 512 results for \"iphone\"\n                            \n                        \n                    \n                \n                \n            \n        \n        \n        \n            \n            \n        \n        \n            \n        \n        \n            \n                \n\n\n\n\n\n\n\n    \n        \n    \n        \n    \n        \n    \n        \n    \n        \n    \n    Sort by:\n        \n            Featured\n        \n            Price: Low to High\n        \n            Price: High to Low\n        \n            Avg. Customer Review\n        \n            Newest Arrivals\n        \n            Best Sellers\n        \n    Sort by:Featured\n    <span class=\"a-button a-button-base\"><span class=\"a-button-inner\"><input class=\"a-button-input\" type=\"submit\" value=\"Go\"/><span class=\"a-button-text\" aria-hidden=\"true\">Go</span></span></span>",
+    "brand": null,
+    "product_image": null,
+    "analysis_id": "7ef42566-ed55-4bd5-8487-ed08d35d2005",
+    "eco_score": 50,
+    "confidence": 30.0,
+    "score_band": "Fair",
+    "breakdown": {
+      "material": null,
+      "packaging": null,
+      "brand_record": null,
+      "lifecycle": null,
+      "durability": null
+    },
+    "carbon_estimate": {
+      "kg_co2e": null,
+      "source": "Insufficient Evidence"
+    },
+    "sdg_mapping": [],
+    "key_findings": [
+      "Detected materials: Unknown",
+      "NLP Sentiment Confidence: 31/100"
+    ],
+    "positive_signals_detected": [],
+    "negative_signals_detected": [],
+    "scoring_reasoning": null,
+    "data_quality": null,
+    "created_at_client": "2026-02-21T10:16:20.886Z",
+    "ledger_id": "385ac1dd-4129-4e0b-b3db-7994dd62fbf3",
+    "scanType": "quick",
+    "status": "success",
+    "created_at": "2026-02-21T15:46:20.952246"
+  },
+  {
+    "user_id": "ext-user-1771618582175",
+    "source": "extension_quick_scan",
+    "platform": "amazon",
+    "event_type": "product_scan",
+    "canonical_url": "https://www.amazon.in/iPhone-Pro-256-Promotion-Breakthrough/dp/B0FQG1LPVF/ref=sr_1_1_sspa?crid=34K9DBM2A8JI4&dib=eyJ2IjoiMSJ9.uQfmx3abWxXxU69d4FT5LLUrVEvq09FQmpkPMjpjM8dQrmiGGo2Gp8rdtkrhYzc-zphtV9iT-rQ7zCeBeriT0v5WjROu-mwuIX-kXXAXuJt7hj1iuvJaKQR01LztG7o82_K4_Z9HKY58QyjZRk9sra_IDb-5T0Xe2ZvKQrgePZTAA5gmIkx3M9R8_LrnoyWLP01l36ESSUqs2wYEKnInNsR_Wf9VzpfTtDtAxG_52UM.r5EwUO9JGwC_VKZttcFc81jcT-K3UiGuitBmI6XGobg&dib_tag=se&keywords=iphone&qid=1771668972&sprefix=ipho%2Caps%2C373&sr=8-1-spons&aref=QtLHym9213&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&th=1",
+    "product_title": "iPhone 17 Pro 256 GB: 15.93 cm (6.3\u2033) Display with Promotion up to 120Hz, A19 Pro Chip, Breakthrough Battery Life, Pro Fusion Camera System with Center Stage Front Camera; Cosmic Orange",
+    "brand": "Visit the Apple Store",
+    "product_image": "https://m.media-amazon.com/images/I/71JGCn1z1TL._SL1500_.jpg",
+    "analysis_id": "4bd31036-3288-4e33-ade0-0c7662abae39",
+    "eco_score": 69,
+    "confidence": 65.0,
+    "score_band": "Good",
+    "breakdown": {
+      "material": 70,
+      "packaging": null,
+      "brand_record": 50,
+      "lifecycle": 50,
+      "durability": 60
+    },
+    "carbon_estimate": {
+      "kg_co2e": null,
+      "source": "Insufficient Evidence"
+    },
+    "sdg_mapping": [],
+    "key_findings": [
+      "Detected materials: glass",
+      "NLP Sentiment Confidence: 31/100"
+    ],
+    "positive_signals_detected": [],
+    "negative_signals_detected": [],
+    "scoring_reasoning": null,
+    "data_quality": null,
+    "created_at_client": "2026-02-21T10:16:26.604Z",
+    "ledger_id": "68044f21-f964-4abc-8d40-b0574d8a68ad",
+    "scanType": "quick",
+    "status": "success",
+    "created_at": "2026-02-21T15:46:26.657561"
+  },
+  {
+    "user_id": "ext-user-1771618582175",
+    "source": "extension_quick_scan",
+    "platform": "amazon",
+    "event_type": "product_scan",
+    "canonical_url": "https://www.amazon.in/s?k=ecofriendly&crid=2HF2NBHDAQ3J8&sprefix=ecofriendly%2Caps%2C368&ref=nb_sb_noss_2",
+    "product_title": "1-48 of over 50,000 results for \"ecofriendly\"\n                            \n                        \n                    \n                \n                \n            \n        \n        \n        \n            \n            \n        \n        \n            \n        \n        \n            \n                \n\n\n\n\n\n\n\n    \n        \n    \n        \n    \n        \n    \n        \n    \n        \n    \n    Sort by:\n        \n            Featured\n        \n            Price: Low to High\n        \n            Price: High to Low\n        \n            Avg. Customer Review\n        \n            Newest Arrivals\n        \n            Best Sellers\n        \n    Sort by:Featured\n    <span class=\"a-button a-button-base\"><span class=\"a-button-inner\"><input class=\"a-button-input\" type=\"submit\" value=\"Go\"/><span class=\"a-button-text\" aria-hidden=\"true\">Go</span></span></span>",
+    "brand": null,
+    "product_image": null,
+    "analysis_id": "7ef42566-ed55-4bd5-8487-ed08d35d2005",
+    "eco_score": 50,
+    "confidence": 30.0,
+    "score_band": "Fair",
+    "breakdown": {
+      "material": null,
+      "packaging": null,
+      "brand_record": null,
+      "lifecycle": null,
+      "durability": null
+    },
+    "carbon_estimate": {
+      "kg_co2e": null,
+      "source": "Insufficient Evidence"
+    },
+    "sdg_mapping": [],
+    "key_findings": [
+      "Detected materials: Unknown",
+      "NLP Sentiment Confidence: 31/100"
+    ],
+    "positive_signals_detected": [],
+    "negative_signals_detected": [],
+    "scoring_reasoning": null,
+    "data_quality": null,
+    "created_at_client": "2026-02-21T10:16:48.979Z",
+    "ledger_id": "ceae99ef-4e41-43e5-a069-d7afb0f6f5cf",
+    "scanType": "quick",
+    "status": "success",
+    "created_at": "2026-02-21T15:46:49.038620"
+  },
+  {
+    "user_id": "ext-user-1771618582175",
+    "source": "extension_quick_scan",
+    "platform": "amazon",
+    "event_type": "product_scan",
+    "canonical_url": "https://www.amazon.in/Kitchen-Clean-Stitched-Chemical-Eco-Friendly/dp/B0CRSX74SD/ref=sr_1_10?crid=2HF2NBHDAQ3J8&dib=eyJ2IjoiMSJ9.byc0eHYtVYcU2kfs97OjBkp8qIcSJBbFtZbucSoisTF95xlnD029ae56JERZgX_eRbQvACmBSJrN0O3QECojFV3KfSUmUNpt--2fr7ExUXRKcoL_UasJUwCopHGIWDmg8bEB-54_SH5pi7wKlzh3j1DVivd1ZKJHDSoGwyekfMW_odtcXsnmQ4EaWHXHqvY2KCgG-0Vd690tx9kKt-KPYmSFQLgqWqdZzHvMcNAahGRt_-4MPTidw_0epVn9tHp14y0ETjG_ZB32L4s8cvnVii8fch8tFj-LAkn_XEIJOr0.hOOX5uGAgiiw3k74jw3ZZ2fd-8iFsbERuy6qZ-vGpb4&dib_tag=se&keywords=ecofriendly&qid=1771668999&sprefix=ecofriendly%2Caps%2C368&sr=8-10&th=1",
+    "product_title": "10 Pcs Small Nariyal Juna Scrub | Stitched for Long Lasting | Natural Chemical Free Coconut Nariyal Juna | Eco-Friendly Coco Scrub Cleaning pad (Brown, Small 3x4 inch, Pack of 10 Pcs)",
+    "brand": "Visit the Kitchen Clean Store",
+    "product_image": "https://m.media-amazon.com/images/I/71j4Z3GoAqL._SL1500_.jpg",
+    "analysis_id": "39a09c47-364b-4376-b096-ae74256b6bc9",
+    "eco_score": 87,
+    "confidence": 85.0,
+    "score_band": "Excellent",
+    "breakdown": {
+      "material": 95,
+      "packaging": null,
+      "brand_record": 50,
+      "lifecycle": 50,
+      "durability": 90
+    },
+    "carbon_estimate": {
+      "kg_co2e": 4.5,
+      "source": "Hybrid Estimate"
+    },
+    "sdg_mapping": [],
+    "key_findings": [
+      "Detected materials: cotton, biodegradable, glass, stainless steel, coir",
+      "NLP Sentiment Confidence: 31/100"
+    ],
+    "positive_signals_detected": [],
+    "negative_signals_detected": [],
+    "scoring_reasoning": null,
+    "data_quality": null,
+    "created_at_client": "2026-02-21T10:20:39.775Z",
+    "ledger_id": "2e2e7f36-8c8f-4e1d-8409-1667ad59b4f5",
+    "scanType": "quick",
+    "status": "success",
+    "created_at": "2026-02-21T15:50:39.780397"
+  },
+  {
+    "user_id": "web-user-1771618709918",
+    "source": "deep_analysis",
+    "platform": "amazon",
+    "event_type": "product_scan",
+    "canonical_url": "https://www.amazon.in/Kitchen-Clean-Stitched-Chemical-Eco-Friendly/dp/B0CRSX74SD/ref=sr_1_10",
+    "product_title": "10 Pcs Small Nariyal Juna Scrub | Stitched for Long Lasting | Natural Chemical Free Coconut Nariyal Juna | Eco-Friendly Coco Scrub Cleaning pad (Brown, Small 3x4 inch, Pack of 10 Pcs)",
+    "brand": "Visit the Kitchen Clean Store",
+    "product_image": "https://m.media-amazon.com/images/I/71j4Z3GoAqL._SL1500_.jpg",
+    "analysis_id": "39a09c47-364b-4376-b096-ae74256b6bc9",
+    "eco_score": 87,
+    "confidence": 85.0,
+    "score_band": "Excellent",
+    "breakdown": {
+      "material": 95,
+      "packaging": null,
+      "brand_record": 50,
+      "lifecycle": 50,
+      "durability": 90
+    },
+    "carbon_estimate": {
+      "kg_co2e": 4.5,
+      "source": "Hybrid Estimate"
+    },
+    "sdg_mapping": [],
+    "key_findings": [
+      "Detected materials: cotton, biodegradable, glass, stainless steel, coir",
+      "NLP Sentiment Confidence: 31/100"
+    ],
+    "positive_signals_detected": [],
+    "negative_signals_detected": [],
+    "scoring_reasoning": null,
+    "data_quality": null,
+    "created_at_client": "2026-02-21T10:20:52.289Z",
+    "ledger_id": "87bec8ce-415a-4934-a47f-0743bbe202bc",
+    "scanType": "full",
+    "status": "success",
+    "created_at": "2026-02-21T15:50:52.343298"
+  }
+]
